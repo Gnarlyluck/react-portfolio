@@ -39,7 +39,11 @@
     }
   }
   .image-wrapper {
+    // width: 200px;
+    // height: 400px;
+    // background-size: cover;
     width: 50%;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
