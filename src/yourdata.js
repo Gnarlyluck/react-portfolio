@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am an up and coming Software Engineer from Seattle, Wa. When Covid lockdowns happened I know I needed a career change. I've always had a passion for computr and technology, so I made the choice to start diving into Software Development. Take a look at what I've done below.",
+    "I am an up and coming Software Engineer from Seattle, Wa. When Covid lockdowns happened I knew I needed a career change. I've always had a passion for computers and technology, so I made the choice to start diving into Software Development. Take a look at what I've done below.",
 
   //Contact Email
   contactEmail: "schuylerluckey@gmail.com",
@@ -120,11 +120,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am a dedicated, young Software Engineer who is eager to utilize my skills while coninuing to learn new ones. I want to deliver the best UI and data storage possible.",
+    "I am a dedicated, young Software Engineer who is eager to utilize my skills while continuing to learn new ones. I want to deliver the best UI and data storage possible.",
   aboutParaTwo:
     "I am a full stack developer who leans towards the back end, although I am comfortable on both sides.",
   aboutParaThree:
-    "I recently Graduated From Genral Assembly's Software engineering Immersive program. It was an amazing and difficult program, I was challenged everyday and through perseverance I Graduated and I am excited for my next step",
+    "I recently graduated From Genral Assembly's Software Engineering Immersive program. It was an amazing and difficult program. I was challenged every day and through my perseverance, I graduated. I look forward to my next steps and the exciting world of software development.",
   aboutImage:
     "https://i.imgur.com/lcbO3hw.jpg",
 
