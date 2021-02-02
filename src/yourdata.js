@@ -1,12 +1,16 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
+import cssIcon from "./images/css3.svg"
 import reactIcon from "./images/react.svg"
-import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
+import jsIcon from "./images/js.svg"
+import pythonIcon from "./images/python.svg"
 import codeIcon from "./images/code.svg"
-import LinkedInIcon from './images/LinkedIn.svg'
+import html5Icon from './images/html5.svg'
+import reduxIcon from './images/redux.svg'
+import postgreSQLIcon from './images/postgresql.svg'
+import npmIcon from './images/npms.svg'
+import nodeJsIcon from './images/nodejs.svg'
 // Social Icon
+import LinkedInIcon from './images/LinkedIn.svg'
 import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
@@ -137,40 +141,58 @@ export default {
   skills: [
     {
       id: 1,
-      img: htmlIcon,
+      img: html5Icon,
       para:
-        "I am familiar and proficient in HTML5, it is the standard markup language for documents designed to be displayed in a web browser. ",
+        "HTML5 ",
     },
     {
       id: 2,
       img: cssIcon,
       para:
-        "I would say I meet requirements for CSS but I am not a styling wizard,",
+        "CSS3",
     },
     {
       id: 3,
       img: jsIcon,
       para:
-        "Javascript is my preffered language, although I can pick up an learn new languages with ease",
+        "JavasScript",
     },
     {
       id: 4,
       img: reactIcon,
       para:
-        "I am proficient with React, React with hooks and I am confortable with React with Redux. React is great because working with the DOM API can be hard. React basically gives developers the ability to work with a virtual browser that is more friendly than the real browser. React’s virtual browser acts as an agent between the developer and the real browser.",
+        "React",
     },
-    // {
-    //   id: 5,
-    //   img: designIcon,
-    //   para:
-    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    // },
-    // {
-    //   id: 6,
-    //   img: codeIcon,
-    //   para:
-    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    // },
+    {
+      id: 5,
+      img: reduxIcon,
+      para:
+        "Redux",
+    },
+    {
+      id: 6,
+      img: pythonIcon,
+      para:
+        "Python",
+    },
+    {
+      id: 7,
+      img: postgreSQLIcon,
+      para:
+        "PostgreSQL",
+    },
+    {
+      id: 8,
+      img: npmIcon,
+      para:
+        "Npm",
+    },
+    {
+      id: 9,
+      img: nodeJsIcon,
+      para:
+        "NodeJs",
+    },
   ],
 
   // End Skills Section --------------------------
