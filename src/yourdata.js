@@ -48,7 +48,7 @@ export default {
         "This app is dedicated to sharing your favorite cocktails or sharing your new experiments and getting feedback. Here you can find out what your friends and peers are mixing up behind the bar.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1601673732094-b0d6b8477bd4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTF8fGNvY2t0YWlsJTIwZmluZGVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "https://www.wsbtv.com/resizer/44JlN-VtBRqH1jP4myKUaY-RzXk=/1200x675/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/PV3SJNEXFOPT7AMSJGEV5MCSKI.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://cocktailsocial.herokuapp.com/",
     },
@@ -59,7 +59,7 @@ export default {
         "Pluck Pluck Choose is a Tinder clone of sorts where you either pluck an animal pic or chuck a animal pic, check out the ompare option for some good laughs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1513333420772-7b64ad15ca96?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjF8fHF1b2trYXxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAQb6cD9s9TTk6ZxvohxA3byGJQToHPv3tg&usqp=CAU",
       //Project URL - Add Your Project Url Here
       url: "https://pluck-pluck-choose.herokuapp.com/",
     },
@@ -70,7 +70,7 @@ export default {
         "This website utilizes the thecocktaildb API to allow users to search for the ingredient list and build process for almost any cocktail you can think of.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://www.diffordsguide.com/assets/images/default/cocktails/cocktail-finder.jpg",
+        "https://i2.wp.com/abarabove.com/wp-content/uploads/2018/12/P1-Vegan-Unfriendly-Ingredients.jpg?w=1080&ssl=1",
       //Project URL - Add Your Project Url Here
       url: "http://quixotic-name.surge.sh/index.html",
     },
@@ -130,7 +130,7 @@ export default {
   aboutParaThree:
     "I recently graduated From Genral Assembly's Software Engineering Immersive program. It was an amazing and difficult program. I was challenged every day and through my perseverance, I graduated. I look forward to my next steps and the exciting world of software development.",
   aboutImage:
-    "https://i.imgur.com/lcbO3hw.jpg",
+    "https://i.imgur.com/k5jZWC1.jpg",
 
   //   End About Section ---------------------
 
