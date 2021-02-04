@@ -56,7 +56,7 @@ export default {
       id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "Pluck Pluck Choose", //Project Title - Add Your Project Title Here
       para:
-        "Pluck Pluck Choose is a Tinder clone of sorts where you either pluck an animal pic or chuck a animal pic, check out the ompare option for some good laughs.", // Add Your Service Type Here
+        "Pluck Pluck Choose is a Tinder clone of sorts where you either pluck an animal pic or chuck a animal pic, check out the compare option for some good laughs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAQb6cD9s9TTk6ZxvohxA3byGJQToHPv3tg&usqp=CAU",
