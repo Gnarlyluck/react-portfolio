@@ -128,7 +128,7 @@ export default {
   aboutParaTwo:
     "I am a full stack developer who leans towards the back end, although I am comfortable on both sides.",
   aboutParaThree:
-    "I recently graduated From Genral Assembly's Software Engineering Immersive program. It was an amazing and difficult program. I was challenged every day and through my perseverance, I graduated. I look forward to my next steps and the exciting world of software development.",
+    "I recently graduated From General Assembly's Software Engineering Immersive program. It was an amazing and difficult program. I was challenged every day and through my perseverance, I graduated. I look forward to my next steps and the exciting world of software development.",
   aboutImage:
     "https://i.imgur.com/k5jZWC1.jpg",
 
