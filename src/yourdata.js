@@ -32,7 +32,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am an up and coming Software Engineer from Seattle, Wa. When Covid lockdowns happened I knew I needed a career change. I've always had a passion for computers and technology, so I made the choice to start diving into Software Development. Take a look at what I've done below.",
+    "I am an up-and-coming Software Engineer from Seattle, Wa. After bartending for close to a decade, I realized it was time for a change when Covid-19 hit. Since I've always had an affinity for computers, design, and technology, I decided to dive into Software Development and become a Full Stack Engineer. Take a look at what I've done below.",
 
   //Contact Email
   contactEmail: "schuylerluckey@gmail.com",
@@ -124,11 +124,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am a dedicated, young Software Engineer who is eager to utilize my skills while continuing to learn new ones. I want to deliver the best UI and data storage possible.",
+    "I am a dedicated, young Software Engineer who is eager to utilize my skills and continue to grow. I want to deliver the best UI and data storage possible.",
   aboutParaTwo:
-    "I am a full stack developer who leans towards the back end, although I am comfortable on both sides.",
+    "I am a full stack developer who is comfortable with both back-end and front-end work.",
   aboutParaThree:
-    "I recently graduated From General Assembly's Software Engineering Immersive program. It was an amazing and difficult program. I was challenged every day and through my perseverance, I graduated. I look forward to my next steps and the exciting world of software development.",
+    "I am a recent graduate of General Assembly's Software Engineering Immersive program, which was an amazing and difficult program. I was challenged every day and learned how to meet goals and perform in a fast paced environment. I look forward to my next steps and the exciting world of software development.",
   aboutImage:
     "https://i.imgur.com/k5jZWC1.jpg",
 
